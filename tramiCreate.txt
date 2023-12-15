@@ -1,5 +1,3 @@
 Trami create branch
 
 Trami add line 2
-
-Tra mi add line 3
